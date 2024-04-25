@@ -1,70 +1,35 @@
-# motd README
+# Software Engineer Quotes - VSCode Extension
 
-This is the README for your extension "motd". After writing up a brief description, we recommend including the following sections.
+## Overview
+
+The Software Engineer Quotes VSCode Extension is a tool designed to provide inspiration and motivation to software engineers within their coding environment. With this extension, you can access a curated collection of insightful quotes from renowned software engineers, thought leaders, and technology pioneers, directly within your Visual Studio Code editor.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+- **Quote of the Day:** Displays a new inspiring quote every day when you open your editor.
+- **Random Quotes:** Access a diverse range of quotes at any time to keep you motivated and focused during your coding sessions.
 
-For example if there is an image subfolder under your extension project workspace:
+## Installation
 
-\!\[feature X\]\(images/feature-x.png\)
+1. Launch Visual Studio Code.
+2. Go to the Extensions view by clicking on the square icon in the Sidebar or by pressing `Ctrl+Shift+X`.
+3. Search for "Software Engineer Quotes".
+4. Click on the Install button, then once installed, click on the Reload button to activate the extension.
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Usage
 
-## Requirements
+Once the extension is installed, you can start using it immediately. Here's how:
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+1. Open Visual Studio Code.
+2. Click on Views Container.
+3. You will see immediately random quote.
+4. Click on Generate button to generate a new random quote.
+5. Enjoy!
 
-## Extension Settings
+## Feedback and Contributions
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+We welcome any feedback, suggestions, or contributions to enhance the Quote of the Day VSCode Extension. Feel free to open an issue on our GitHub repository or submit a pull request with your improvements.
 
-For example:
+## License
 
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+This extension is licensed under the [MIT License](LICENSE).
