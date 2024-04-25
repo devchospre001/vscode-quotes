@@ -1,7 +1,7 @@
 {
   "name": "motd",
-  "displayName": "Message of the day",
-  "description": "Motivational messages for engineers",
+  "displayName": "Quote of the Day",
+  "description": "Motivational quotes for engineers",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.88.0"
@@ -29,7 +29,7 @@
         {
           "id": "quotez",
           "name": "Quotes",
-		  "type": "webview"
+          "type": "webview"
         }
       ]
     },
